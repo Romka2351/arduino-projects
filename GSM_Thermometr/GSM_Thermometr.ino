@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 #include <EEPROM.h>
-#define SIM_PIN 2019
+#define SIM_PIN 0000
 
 SoftwareSerial sim800l(2, 4); //RX, TX
 
